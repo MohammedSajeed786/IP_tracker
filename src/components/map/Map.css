@@ -1,0 +1,14 @@
+.map { 
+    /* height: 100%;
+    width: 100%;  */
+    position:relative;
+}
+ 
+.leaflet-container { 
+    height: 1000px;
+    /* width: 100%;  */
+}
+Marker{
+    color: black;
+}
+ 
